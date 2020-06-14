@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Basic Introduction App</string>
+    <string name="name_txt">Name : Sadaqat Panhwer</string>
+    <string name="department_txt">Department : Computer Science</string>
+    <string name="batch_txt">Batch: 2K17</string>
+</resources>
